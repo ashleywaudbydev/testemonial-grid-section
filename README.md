@@ -54,7 +54,7 @@ I leaned what a grid is and how we can work with a grid to position elements on 
 
 
 ### Continued development
-build more projects using the grid system  from front end mentore web site.
+build more projects using the grid system  from front end mentore web site. eventually build up to making my own layouts using the grid system.
 
 
 
