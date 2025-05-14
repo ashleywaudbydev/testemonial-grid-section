@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://00awaudby.github.io/testemonial-grid-section/)
+- Live Site URL: (https://ashleywaudbydev.github.io/testemonial-grid-section/)
 
 ## My process
 
